@@ -1,5 +1,15 @@
 # CompTIA Network+ (n10-009) Certification Study Guide
 
+## Disclaimer
+The information provided in this repository is for educational purposes only and does not guarantee certification success. This guide is a condensed version of various study materials and resources I have used while preparing for the exam. It is recommended to use this guide in conjunction with official CompTIA resources and other study materials.
+
+Other Resources:
+- [CompTIA Network+ Exam Objectives](https://www.comptia.org/certifications/network-plus) (Refer to this often while studying)
+- [Professor Messer's Network+ Course](https://www.professormesser.com/network-plus/n10-009/n10-009-course-index/) (Free Youtube Study Playlist is Highly Recommended)
+- [Dios Academy Network+ Course](https://www.diontraining.com/network-plus) (Paid course but free with Gale Udemy subscription)
+
+**GALE UDEMY SUBSCRIPTION**: Some libraries offer free access to Udemy courses and more with a library card. Check your local library's website for details.
+
 ## Test Details
 Number of questions: Maximum of 90
 Types of questions: Multiple-choice and performance-based
@@ -50,47 +60,47 @@ Length of test: 90 minutes
     - Performance issues: congestion, latency, packet loss, and wireless interference.
     - Tools and protocols: protocol analyzers, command line tools, cable testers, and Wi-Fi analyzers.
 
-## Study Guide References
-Chapter 1: Network Models, Ports, Protocols, and Services
+## Study Guide Section to Objective Outline
+1. Network Models, Ports, Protocols, and Services
     - 1.1 Explain concepts related to the Open Systems Interconnection (OSI) reference model
     - 1.4 Explain common networking ports, protocols, services, and traffic types
 
-Chapter 2: Network Topologies, Architectures, and Types
+2. Network Topologies, Architectures, and Types
     - 1.6 Compare and contrast network topologies, architectures, and types
 
-Chapter 3: Network Addressing, Routing, and Switching
+3. Network Addressing, Routing, and Switching
     - 1.7 Given a scenario, use appropriate IPv4 network addressing
     - 2.1 Explain characteristics of routing technologies
     - 2.2 Given a scenario, configure switching technologies and features
     - 3.4 Given a scenario, implement IPv4 and IPv6 network services
 
-Chapter 4: Network Implementations
+4. Network Implementations
     - 1.2 Compare and contrast networking appliances, applications, and functions
     - 1.8 Summarize evolving use cases for modern network environments
 
-Chapter 5: Cabling Solutions and Issues
+5. Cabling Solutions and Issues
     - 1.5 Compare and contrast transmission media and transceivers
     - 5.2 Given a scenario, troubleshoot common cabling and physical interface issues
 
-Chapter 6: Wireless Solutions
+6. Wireless Solutions
     - 2.3 Given a scenario, select and configure wireless devices and technologies
 
-Chapter 7: Cloud Computing Concepts and Options
+7. Cloud Computing Concepts and Options
     - 1.3 Summarize cloud concepts and connectivity options
 
-Chapter 8: Network Operations
+8. Network Operations
     - 2.4 Explain important factors of physical installations
     - 3.1 Explain the purpose of organizational processes and procedures
     - 3.2 Given a scenario, use network monitoring technologies
     - 3.3 Explain disaster recovery (DR) concepts
     - 3.5 Compare and contrast network access and management methods
 
-Chapter 9: Network Security
+9. Network Security
     - 4.1 Explain the importance of basic network security concepts
     - 4.2 Summarize various types of attacks and their impact to the network
     - 4.3 Given a scenario, apply network security features, defense techniques, and solutions
 
-Chapter 10: Network Troubleshooting
+10. Network Troubleshooting
     - 5.1 Explain the troubleshooting methodology
     - 5.3 Given a scenario, troubleshoot common issues with network services
     - 5.4 Given a scenario, troubleshoot common performance issues
