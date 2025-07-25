@@ -4,15 +4,17 @@
 The information provided in this repository is for educational purposes only and does not guarantee certification success. This guide is a condensed version of various study materials and resources I have used while preparing for the exam. It is recommended to use this guide in conjunction with official CompTIA resources and other study materials.
 
 Other Resources:
-- [CompTIA Network+ Exam Objectives](https://www.comptia.org/certifications/network-plus) (Refer to this often while studying)
-- [Professor Messer's Network+ Course](https://www.professormesser.com/network-plus/n10-009/n10-009-course-index/) (Free Youtube Study Playlist is Highly Recommended)
-- [Dios Academy Network+ Course](https://www.diontraining.com/network-plus) (Paid course but free with Gale Udemy subscription)
+- [CompTIA Network+ Exam Objectives](https://www.comptia.org/en-us/certifications/network/#overview)
+- [Professor Messer's Network+ Course](https://www.professormesser.com/get-n10-009-network-plus-certified/) (Free Youtube Study Playlist is Highly Recommended)
+- [Dios Academy Network+ Course](https://www.diontraining.com/pages/udemy) (Paid course but free with Gale Udemy subscription)
 
 **GALE UDEMY SUBSCRIPTION**: Some libraries offer free access to Udemy courses and more with a library card. Check your local library's website for details.
 
 ## Test Details
 Number of questions: Maximum of 90
+
 Types of questions: Multiple-choice and performance-based
+
 Length of test: 90 minutes
 
 ## Certification Objectives
